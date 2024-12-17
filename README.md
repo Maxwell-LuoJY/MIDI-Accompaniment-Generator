@@ -17,3 +17,5 @@ python basic.py two_tigers_major.txt
 To use graphic mode:
 
 python interface.py
+
+For further instructions, see Readme.txt
